@@ -17,7 +17,7 @@ Overclocking tools for Linux
 ### Stress testing:
 - **Low stress** - Kernel compilation
 - **Medium stress** - `ffmpeg -y -f rawvideo -video_size 1920x1080 -pixel_format yuv420p -framerate 60 -i /dev/urandom -c:v libx265 -preset placebo -f matroska /dev/null`
-- **High stress** - [GIMPS](https://www.mersenne.org/download/) (prime95/mprime)
+- **High stress** - [GIMPS](https://www.mersenne.org/download/) (prime95/mprime), will write a script for all-core pbo/curve-optimizer testing
 
 # RAM
 ### Monitoring:
@@ -27,7 +27,8 @@ Overclocking tools for Linux
 ### Stress testing:
 - **Low stress** - MemTest86+ - 64bit Linux ISO Downlaod: [here](https://www.memtest.org/download/v7.00/mt86plus_7.00_64.iso.zip) (it is also provided in Gentoo's [LiveGUI USB image](https://www.gentoo.org/downloads/))
 - **Medium stress** - [GIMPS](https://www.mersenne.org/download/) (prime95/mprime)
-- **High stress** - [Stressapptest](https://github.com/stressapptest/stressapptest) `stressapptest - M <~90+% of free memory> -s <time in seconds> -m <thread count> -W` - run for 30min+
+- **High stress** - [Stressapptest](https://github.com/stressapptest/stressapptest) `stressapptest - M <~90+% of free memory> -s <time in seconds> -m <thread count> -W`
+- run for at least 30-60 minutes
 
 # GPU
 - No GPU still :'(
