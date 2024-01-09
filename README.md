@@ -27,7 +27,7 @@ Overclocking tools for Linux
 ### Stress testing:
 - **Low stress** - MemTest86+ - 64bit Linux ISO Downlaod: [here](https://www.memtest.org/download/v7.00/mt86plus_7.00_64.iso.zip) (it is also provided in Gentoo's [LiveGUI USB image](https://www.gentoo.org/downloads/))
 - **Medium stress** - [GIMPS](https://www.mersenne.org/download/) (prime95/mprime)
-- **High stress** - [Stressapptest](https://github.com/stressapptest/stressapptest) `stressapptest - M <~90+% of free memory> -s <time in seconds> -m <thread count> -W`
+- **High stress** - [Stressapptest](https://github.com/stressapptest/stressapptest) `stressapptest - M <~98% of free ram> -s <time in seconds> -W`
 - run for at least 30-60 minutes
 
 # GPU
