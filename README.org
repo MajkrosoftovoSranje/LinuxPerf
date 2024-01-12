@@ -1,3 +1,5 @@
+#+TITLE: Linux Overclocking Guide
+
 * LinuxOC
   :PROPERTIES:
   :CUSTOM_ID: linuxoc
