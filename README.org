@@ -65,4 +65,4 @@ thread count and 1800 with time to run in seconds) - run for at least
   :PROPERTIES:
   :CUSTOM_ID: gpu
   :END:
-- No GPU still :'(
+- https://github.com/ilya-zlobintsev/LACT
