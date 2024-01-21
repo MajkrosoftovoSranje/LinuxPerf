@@ -1,16 +1,16 @@
 #+TITLE: Linux Overclocking Guide
+#+AUTHOR: Gentoo Yorkie
 
-* LinuxOC
+* Overclocking tools for Linux
   :PROPERTIES:
   :CUSTOM_ID: linuxoc
   :END:
-Overclocking tools for Linux
 
 - [[#cpu][CPU]]
 - [[#ram][RAM]]
 - [[#gpu][GPU]]
 
-* CPU
+** CPU
   :PROPERTIES:
   :CUSTOM_ID: cpu
   :END:
@@ -38,7 +38,7 @@ Overclocking tools for Linux
   (prime95/mprime), will write a script for all-core pbo/curve-optimizer
   testing
 
-* RAM
+** RAM
   :PROPERTIES:
   :CUSTOM_ID: ram
   :END:
@@ -61,7 +61,7 @@ stress* - [[https://www.mersenne.org/download/][GIMPS]]
 thread count and 1800 with time to run in seconds) - run for at least
 30-60 minutes
 
-* GPU
+** GPU
   :PROPERTIES:
   :CUSTOM_ID: gpu
   :END:
