@@ -1,7 +1,6 @@
-#+TITLE: Linux Overclocking Guide
-#+AUTHOR: Gentoo Yorkie
+#+TITLE: Linux Desktop Performance Guide
 
-* Overclocking tools for Linux
+* Overclocking
   :PROPERTIES:
   :CUSTOM_ID: linuxoc
   :END:
