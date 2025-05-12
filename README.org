@@ -25,11 +25,13 @@
 - [[https://github.com/cyring/CoreFreq][CoreFreq]],
   [[https://github.com/cyring/CoreFreq/wiki/Live-CD][Archlinux Live CD
   image]]
-- CoreFreq has direct CPU overclocking capabalities ### Overclocking
+- CoreFreq has direct CPU overclocking capabalities
+*** Overclocking
 - in UEFI settings
 - [[https://github.com/cyring/CoreFreq][CoreFreq]],
   [[https://github.com/cyring/CoreFreq/wiki/Live-CD][Archlinux Live CD
-  image]] ### Stress testing:
+  image]]
+*** Stress testing:
 - *Low stress* - Kernel compilation
 - *Medium stress* -
   =ffmpeg -y -f rawvideo -video_size 1920x1080 -pixel_format yuv420p -framerate 60 -i /dev/urandom -c:v libx265 -preset placebo -f matroska /dev/null=
