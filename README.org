@@ -45,11 +45,11 @@
     :PROPERTIES:
     :CUSTOM_ID: monitoring-1
     :END:
-[[https://github.com/hattedsquirrel/ryzen_monitor][ryzen_monitor]] -
-*(RYZEN ONLY!)* - SoC, VDDCR_SOC, VDDG, L3 VDDM, VDDIO, VDDP power,
-memory and fabric clocks, cLDO_(VDDM, VDDP, VDDG) voltages ###
-Overclocking - exclusively in UEFI ### Stress testing: - *Low stress* -
-MemTest86+ - 64bit Linux ISO Downlaod:
+- [[https://github.com/hattedsquirrel/ryzen_monitor][ryzen_monitor]] - *(RYZEN ONLY!)* - SoC, VDDCR_SOC, VDDG, L3 VDDM, VDDIO, VDDP power, memory and fabric clocks, cLDO_(VDDM, VDDP, VDDG) voltages
+*** Overclocking
+- exclusively in UEFI
+*** Stress testing:
+- *Low stress* - MemTest86+ - 64bit Linux ISO Downlaod:
 [[https://www.memtest.org/download/v7.00/mt86plus_7.00_64.iso.zip][here]]
 (it is also provided in Gentoo's
 [[https://www.gentoo.org/downloads/][LiveGUI USB image]]) - *Medium
